@@ -1,4 +1,4 @@
-# Hey ✋
+# Hello World ✋
 
 Hi! My name is *Heitor Vidal* and I'm a current student in programming and passionate about web design & development.  My goal is to become an experienced front-end engineer, and I'm working on it since 2020!
 
