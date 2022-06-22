@@ -24,6 +24,3 @@ Hi! My name is *Heitor Vidal* and I'm a current student in programming and passi
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-```
-
